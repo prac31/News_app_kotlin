@@ -26,4 +26,6 @@ Read more:
 
 ## Screenshots
 
+![Uploading Screenshot_2022-04-07-10-50-11-646_com.example.newsappinkotlin (1).jpg…]()
+![Screenshot_2022-04-07-10-50-11-646_com example newsappinkotlin](https://user-images.githubusercontent.com/91408347/162126312-06fb8852-949c-427e-b5ae-8d234e460267.jpg)
 
